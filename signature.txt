@@ -1,0 +1,24 @@
+xuiUj1l1vl4myunOtotcjiqLzL1tr0dZqu8/Jfcajus=
+
+Public key: fA7Ih7xfHGqWub+fDJy0dX+y2O/dvTDmO4xmeF1Bylc=
+Signature: Ajc0JtVJiM7oHQGCOn2aIHf/vEiXBONI135dSrovEA8VGP0TDmRv1IU2Uns4Rk8yRdvfB3EZP6GMqrsY+4cXBA==
+======================================================================================================================
+
+The file https://metamagical-musings.github.io/Metamagical-Musings.pdf was created by El Mago Bueno on February 7, 2024
+and signed by him using https://hash-and-sign.github.io -- a web page he created from open source Ed25519 DSA software.
+
+To verify the signature:
+
+1. Compute the SHA-256 checksum of the PDF by dragging and dropping the file into the lower box (Message to 
+   sign/verify) of https://hash-and-sign.github.io.
+
+2. Confirm that the SHA-256 checksum matches the first line of this file.
+
+3. Copy and paste the first four lines of this file (above the double-line) into the lower box (Message to 
+   sign/verify) of https://hash-and-sign.github.io -- It doesn't matter what is in the upper box (12 random words).
+
+4. Just below the lower box is a Status message. If the status is "verified" then the PDF has not been altered 
+   since signing by the owner of the public key.
+
+5. Confirm that the pubic key belongs to El Mago Bueno. He published his public key on his substack here: 
+   https://metamagical.substack.com/about

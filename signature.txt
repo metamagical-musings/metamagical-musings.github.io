@@ -1,10 +1,10 @@
-U+xMR8pRnZaguvbNKZcGEq+afUpI0p9m1w+Cq4DQqSk=
+Ye9F+cC/7RJGJIqZ9IHuSuMwgBdGr/dfYuNV01y7M6I=
 
 Public key: fA7Ih7xfHGqWub+fDJy0dX+y2O/dvTDmO4xmeF1Bylc=
-Signature: Eenhp0ix7leq+HnPo/IER6ubpB03mrOl6aEcXY6Qsmnb0MwkEaBB1UZlOZeBNZGtByXsziCErAcpkbMzN1r/Bg==
+Signature: S32I7fySwgguAG+LjEIj7BpEGuw/GYEpdkG3emhvMO/2cxzGh6fEpIw6zNWi3kTpmhAHq3flm7R2qJWqap8tAA==
 ======================================================================================================================
 
-The file https://metamagical-musings.github.io/Metamagical-Musings.pdf was created by El Mago Bueno on May 15, 2024
+The file https://metamagical-musings.github.io/Metamagical-Musings.pdf was created by El Mago Bueno on July 4, 2024
 and signed by him using https://hash-and-sign.github.io -- a web page he created from open source Ed25519 DSA software.
 
 To verify the signature:

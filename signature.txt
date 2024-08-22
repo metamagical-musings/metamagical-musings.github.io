@@ -19,6 +19,3 @@ To verify the signature:
 
 4. Just below the lower box is a Status message. If the status is "verified" then the PDF has not been altered 
    since signing by the owner of the public key.
-
-5. Confirm that the pubic key belongs to El Mago Bueno. He published his public key on his substack here: 
-   https://metamagical.substack.com/about

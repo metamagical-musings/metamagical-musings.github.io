@@ -1,7 +1,7 @@
-yOwtAhA3wrM2CzNmBlIpaF6tC4GHBTJi3YZ1teIfi4I=
+vmAligEdo41FlessxwF8zIvJWAkPiQSsn4QxuTf0Hk4=
 
 Public key: fA7Ih7xfHGqWub+fDJy0dX+y2O/dvTDmO4xmeF1Bylc=
-Signature: qXe4IK8KFWzFY+gnuapvmu2s98rP6Fr99RhNl5bfrxjEJUWpbNkFW0Jgcqw6z4JQFC7bABb/bn9xGzCDTaNDBw==
+Signature: T+kPVY0/qXOVscE2yo8suLddEd1UNpXOlKysxerMhn8aF2QNcc5vkOgCCNM5mzs1zjJYUfB5tF1SHNp5DIWKCQ==
 ======================================================================================================================
 
 The file https://metamagical-musings.github.io/Metamagical-Musings.pdf was created by El Mago Bueno on August 23, 2024

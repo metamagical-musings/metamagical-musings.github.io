@@ -1,0 +1,21 @@
+zIC3QYH3py13/FcCLQv9Qz+XXMLJjnjSFDtDN0vBDcc=
+
+Public key: fA7Ih7xfHGqWub+fDJy0dX+y2O/dvTDmO4xmeF1Bylc=
+Signature: D9EWEuTVTpyE6qpQfLKQQhdTDBbh6nhrOSpFnxtTjixYx8y2LKPzapJ/jBBRvO2F9QFGZhbzvYG86ZfBXmb6Bw==
+======================================================================================================================
+
+The file https://metamystical-musings.github.io/Metamystical-Musings.pdf was created by MisterY on August 31, 2024
+and signed by him using https://metamystical-musings.github.io/hash-and-sign.html -- a web page he created from open source Ed25519 DSA software.
+
+To verify the signature:
+
+1. Compute the SHA-256 checksum of the PDF by dragging and dropping the file into the lower box (Message to 
+   sign/verify) of the web page.
+
+2. Confirm that the SHA-256 checksum matches the first line of this file.
+
+3. Copy and paste the first four lines of this file (above the double-line) into the lower box (Message to 
+   sign/verify) of  the web page -- It doesn't matter what is in the upper box (12 random words).
+
+4. Just below the lower box is a Status message. If the status is "verified" then the PDF has not been altered 
+   since signing by the owner of the public key.

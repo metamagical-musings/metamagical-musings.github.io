@@ -9,5 +9,5 @@ This is a repository for a trilogy in the form of downloadable PDF's written by 
 
 †Includes *Metaphysical Musings*
 
-The PDF's are signed using [this](https://metamagical-musings.github.io/hash-and-sign.html) form and the private passphrase associated
+The PDF's are signed using [this form](https://metamagical-musings.github.io/hash-and-sign.html) and the private passphrase associated
 with this public key: fA7Ih7xfHGqWub+fDJy0dX+y2O/dvTDmO4xmeF1Bylc=.

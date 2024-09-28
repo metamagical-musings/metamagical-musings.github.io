@@ -1,11 +1,11 @@
 ## Metamagical Musings
 This is a repository for a trilogy in the form of downloadable PDF's written by John over the course of three metaphorical incarnations.
 
-|**Incarnation**|**PDF title**|**Signature**|
-|---------------|-------------|-------------|
-|Citizen Doctor |[*Fractal Sovereignty*](https://metamagical-musings.github.io/Fractal-Sovereignty.pdf)†|[signature](https://metamagical-musings.github.io/signatures/Fractal-Sovereignty.txt)|
-|MisterY        |[*Metamystical Musings*](https://metamagical-musings.github.io/Metamystical-Musings.pdf)|[signature](https://metamagical-musings.github.io/signatures/Metamystical-Musings.txt)|
-|El Mago Bueno  |[*Metamagical Musings*](https://metamagical-musings.github.io/Metamagical-Musings.pdf)|[signature](https://metamagical-musings.github.io/signatures/Metamagical-Musings.txt)|
+|**Incarnation**|**PDF title**|**Pages**|**Signature**|
+|---------------|-------------|---------|-------------|
+|Citizen Doctor |[*Fractal Sovereignty*](https://metamagical-musings.github.io/Fractal-Sovereignty.pdf)†|167|[signature](https://metamagical-musings.github.io/signatures/Fractal-Sovereignty.txt)|
+|MisterY        |[*Metamystical Musings*](https://metamagical-musings.github.io/Metamystical-Musings.pdf)|66|[signature](https://metamagical-musings.github.io/signatures/Metamystical-Musings.txt)|
+|El Mago Bueno  |[*Metamagical Musings*](https://metamagical-musings.github.io/Metamagical-Musings.pdf)|151|[signature](https://metamagical-musings.github.io/signatures/Metamagical-Musings.txt)|
 
 †Includes *Metaphysical Musings*
 

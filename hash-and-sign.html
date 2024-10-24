@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- saved from url=(0056)https://metamagical-musings.github.io/hash-and-sign.html -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Digital signing</title>
 <script>
@@ -99,11 +100,11 @@ function copyText (id) {
 }
 </script>
 <style>
-  body { font-family: arial; font-size: 12px; color: white; background-color: #0C090A; }
+  body { font-family: consolas; font-size: 14px; color: white; background-color: #0C090A; }
   a { color: lightblue; }
-  div { margin: auto; width: 600px; }
+  div { margin: auto; width: 800px; }
   textarea, .button { color: black; background-color: lightblue; }
-  textarea { font-size: 10px; width: 100%; margin-bottom: 10px; }
+  textarea { font-size: 12px; width: 100%; margin-bottom: 10px; }
   .button { padding: 3px; font-weight: bold; margin-left: 15px; }
   .right { text-align: right; }
   #text { height: 70px; }
@@ -115,14 +116,14 @@ function copyText (id) {
 <h2>Digital signing</h2>
 <b>12 random words (or your choice of unique text):</b>
 <textarea id="text" oninput="hash()"></textarea>
-<div class="right"><span class="button" onclick="copyText('text')">Copy</span></div>
+<div class="right"><span class="button" onclick="copyText(&#39;text&#39;)">Copy</span></div>
 <b>Message to sign/verify:</b>
 <textarea id="message" oninput="verify()"></textarea>
-<div class="right"><span class="button" onclick="sign()">Sign</span><span class="button" onclick="copyText('message')">Copy</span></div>
+<div class="right"><span class="button" onclick="sign()">Sign</span><span class="button" onclick="copyText(&#39;message&#39;)">Copy</span></div>
 <b>Status:</b>&nbsp;<span id="status"></span>
 <p>
 <b>Signing Instructions:</b>
-<ol>
+</p><ol>
 <li>A random set of 12 memorizable English words appears in the upper text box every time this page is refreshed.</li>
 <li>They should be securely stored and kept private because they are used to generate your secret key and therefore may be needed to prove that you are the owner of your public key.</li>
 <li>Type or paste text into the <i>Message</i> box.</li>
@@ -137,4 +138,5 @@ function copyText (id) {
 <li>If the message was signed by the owner of the public key and has not been altered since signing, the <i>Status</i> field will indicate <i>verified</i> and the <i>Message</i> box background will turn green; otherwise it turns pink.</li>
 </ol>
 </div>
+
 </body></html>

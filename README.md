@@ -12,4 +12,4 @@ This is a repository for a trilogy in the form of downloadable PDF's written by 
 The PDF's are signed using [this form](https://metamagical-musings.github.io/hash-and-sign.html) and the private passphrase associated
 with this public key: fA7Ih7xfHGqWub+fDJy0dX+y2O/dvTDmO4xmeF1Bylc=
 
-Also available is [*The Other Wise Man (1895)*](https://metamagical-musings.github.io/The-Other-Wise-Man.pdf) by Henry van Dyke. It was originally included in *Fractal Sovereignty* and is referenced in both *Metamystical Musings* and *Metamagical Musings*.
+Also available is [*The Other Wise Man (1895, 17 pages)*](https://metamagical-musings.github.io/The-Other-Wise-Man.pdf) by Henry van Dyke. It was originally included in *Fractal Sovereignty* and is referenced in both *Metamystical Musings* and *Metamagical Musings*.

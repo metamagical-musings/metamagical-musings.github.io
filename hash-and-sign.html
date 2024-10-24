@@ -122,7 +122,7 @@ function copyText (id) {
 <div class="right"><span class="button" onclick="sign()">Sign</span><span class="button" onclick="copyText(&#39;message&#39;)">Copy</span></div>
 <b>Status:</b>&nbsp;<span id="status"></span>
 <p>
-<b>Signing Instructions:</b>
+<h3>Signing Instructions:</h3>
 </p><ol>
 <li>A random set of 12 memorizable English words appears in the upper text box every time this page is refreshed.</li>
 <li>They should be securely stored and kept private because they are used to generate your secret key and therefore may be needed to prove that you are the owner of your public key.</li>
@@ -131,12 +131,22 @@ function copyText (id) {
 <li>Send to the recipient the signed message including the appended public key and signature.</li>
 <li>Dragging and dropping a file into the <i>Message</i> box will automatically compute its SHA-256 checksum, base64 encoded, and sign it.</li>
 </ol>
-<b>Verifying instructions:</b>
+<h3>Verifying instructions:</h3>
 <ol>
 <li>The secret key is not used for verification so it doesn't matter what is in the upper text box.</li>
 <li>Paste the received signed message into the <i>Message</i> box.</li>
 <li>If the message was signed by the owner of the public key and has not been altered since signing, the <i>Status</i> field will indicate <i>verified</i> and the <i>Message</i> box background will turn green; otherwise it turns pink.</li>
 </ol>
+<h3>Technical notes:</h3>
+This page uses the TweetNaCl-js implementaion of Ed25519 DSA (Digital Signature Algorithm) and SHA-512 for hashing the mnemonic seed.
+<p>
+Once it is served to your computer, has no further communication with the server or any other entity. No cookies or local data storage are created when the pages run in your browser. Therefore, secret data exist only temporarily within the browser while it is open, unless manually copied elsewhere. The browser cache should be cleared before closing it. The clipboard should also be cleared if a secret was copied to it.
+<p>
+For enhanced peace of mind, save this HTML page to your computer when it is blank and move it to an offline computer before using. Review the dowloaded code, which includes the two libraries nacl.min.js and nacl-util.min.js, obtained from Github user dchest (Dmitry Chestnykh). The originals are available at these links along with non-minified (and possibly more recent) versions:
+<ol>
+<li><a href="https://github.com/dchest/tweetnacl-js/releases/tag/1.0.3">tweetnacl-js 1.0.3</a></li>
+<li><a href="https://github.com/dchest/tweetnacl-util-js/releases/tag/v0.15.0">tweetnacl-util-js v0.15.0</a></li>
+</ol>
+TweetNaCl.js was ported from <a href="http://tweetnacl.cr.yp.to">TweetNaCl / NaCl</a>.
 </div>
-
 </body></html>

@@ -1,10 +1,10 @@
-OSpUjWRXt+W9vnQx71GnbHveAvROA1aQykZn7mMwYj8=
+rkKeuOSTbUp2Ay2LgiMAAyjgGbw1D/gPe/TPI/QLAZk=
 
 Public key: fA7Ih7xfHGqWub+fDJy0dX+y2O/dvTDmO4xmeF1Bylc=
-Signature: YOrbXkj9OHXHIRmvJWZ3+WfZMP83DTH+RoXgLpJyrG2SLC9sYWuqkxkuh3hMp3QownKptXmQ+tEnNKVDpD5UBw==
+Signature: YNpq36tKM56QHgumuDJp5Yv2iE5jfDDJMBeqf/06Sogij34P6Ebba98MeAuz5ku8G3ikc+U+o+hjkZJrijn5AQ==
 ======================================================================================================================
 
-The file Metamystical-Musings.pdf was created by MisterY on November 4, 2024 and signed by him using https://metamagical-musings.github.io/hash-and-sign.html -- a web page he created from open source Ed25519 DSA software.
+The file Metamystical-Musings.pdf was created by MisterY on November 6, 2024 and signed by him using https://metamagical-musings.github.io/hash-and-sign.html -- a web page he created from open source Ed25519 DSA software.
 
 To verify the signature:
 

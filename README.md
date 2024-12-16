@@ -14,6 +14,13 @@ with this public key: fA7Ih7xfHGqWub+fDJy0dX+y2O/dvTDmO4xmeF1Bylc=
 
 Also available is [*The Other Wise Man (1895, 17 pages)*](https://metamagical-musings.github.io/The-Other-Wise-Man.pdf) by Henry van Dyke. It was originally included in *Fractal Sovereignty* and is referenced in both *Metamystical Musings* and *Metamagical Musings*.
 
+### Duality
+A short musing of one of the main themes of the trilogy, duality.
+
+|**Author**|**PDF title**|**Date**|**Pages**|**Signature**|
+|---------------|-------------|--------|---------|-------------|
+|John |[*Both sides now*](https://metamagical-musings.github.io/Both%20sides%20now.pdf)|2024-12-16|5|[signature](https://metamagical-musings.github.io/signatures/Both%20sides%20now.txt)|
+
 ### Downloading
 You can download the individual PDFs by clicking on the titles above (which will open them in your browser) then saving them to your computer. However, the second and third PDFs will still have embedded hyperlinks linking to files on the metamagical-musings.github.io server, including audio files. These hyperlinks will work as long as the server is available, but the full trilogy along with its audio files can be downloaded to your computer and then modified so that hyperlinks link to your own computer instead of the server, thus making it self-contained:
 1. Download the trilogy and associated files by clicking [here](https://github.com/metamagical-musings/metamagical-musings.github.io/archive/refs/heads/main.zip).

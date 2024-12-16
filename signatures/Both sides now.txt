@@ -1,0 +1,17 @@
+cASBUibFQ8/83WF5w5ne3hkdZi5MGdTMuziewjr1tbE=
+
+Public key: fA7Ih7xfHGqWub+fDJy0dX+y2O/dvTDmO4xmeF1Bylc=
+Signature: ewiFM9P9xG0KOxdikoZ39uzM9HB/lia2iotDl03q6mSy+g5jctfe4GUL3uA905VOUfdECLvc2dePujBLKq8/DQ==
+======================================================================================================================
+
+The file Both sides now.pdf was created by John on December 16, 2024 and signed by him using https://metamagical-musings.github.io/hash-and-sign.html -- a web page he created from open source Ed25519 DSA software.
+
+To verify the signature:
+
+1. Compute the SHA-256 checksum of the PDF by dragging and dropping the file into the lower box (Message to sign/verify) of the web page.
+
+2. Confirm that the SHA-256 checksum matches the first line of this file.
+
+3. Copy and paste the first four lines of this file (above the double-line) into the lower box (Message to sign/verify) of the web page -- It doesn't matter what is in the upper box (12 random words).
+
+4. Just below the lower box is a Status message. If the status is "verified" then the PDF has not been altered since signing by the owner of the public key.

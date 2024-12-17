@@ -1,4 +1,4 @@
-## Metamagical Musings
+## The Metamusings trilogy
 This is a repository for a trilogy in the form of downloadable PDFs written by John over the course of three metaphorical incarnations.
 
 |**Incarnation**|**PDF title**|**Year**|**Pages**|**Signature**|
@@ -24,7 +24,7 @@ A short musing on one of the main themes of the trilogy, duality.
 ### Downloading
 You can download the individual PDFs by clicking on the titles above (which will open them in your browser) then saving them to your computer. However, the second and third PDFs will still have embedded hyperlinks linking to files on the metamagical-musings.github.io server, including audio files. These hyperlinks will work as long as the server is available, but the full trilogy along with its audio files can be downloaded to your computer and then modified so that hyperlinks link to your own computer instead of the server, thus making it self-contained:
 1. Download the trilogy and associated files by clicking [here](https://github.com/metamagical-musings/metamagical-musings.github.io/archive/refs/heads/main.zip).
-2. Unzip the dowloaded zip package and rename the folder to something like `Metatrilogy`.
+2. Unzip the dowloaded zip package and rename the folder to something like `Metamusings`.
 3. Inside the folder, execute the `redirect` program to modify hyperlinks as necessary in all of the PDFs:
    - On Windows, launch `redirect.bat` by double-clicking it. It will open a console window and execute `redirect.exe`.
    - On Linux, launch `redirect.sh` from the command prompt. It will execute `redirect`.

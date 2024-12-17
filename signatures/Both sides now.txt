@@ -1,10 +1,10 @@
-cASBUibFQ8/83WF5w5ne3hkdZi5MGdTMuziewjr1tbE=
+dRCwkSy6WMtMjq2+xdJ0789gdrvDlWJ4GF2iPJJ9yyc=
 
 Public key: fA7Ih7xfHGqWub+fDJy0dX+y2O/dvTDmO4xmeF1Bylc=
-Signature: ewiFM9P9xG0KOxdikoZ39uzM9HB/lia2iotDl03q6mSy+g5jctfe4GUL3uA905VOUfdECLvc2dePujBLKq8/DQ==
-======================================================================================================================
+Signature: w8UD/CQJjVGo5Ru1guQCk19Ks3NFUIqc/v7KA6egweVZ3yQEXrgs/n9ODhOToKk9g39cxct6KEROqQQHByOBAA==
+===================================================================================================
 
-The file Both sides now.pdf was created by John on December 16, 2024 and signed by him using https://metamagical-musings.github.io/hash-and-sign.html -- a web page he created from open source Ed25519 DSA software.
+The file Both sides now.pdf was created by John on December 17, 2024 and signed by him using https://metamagical-musings.github.io/hash-and-sign.html -- a web page he created from open source Ed25519 DSA software.
 
 To verify the signature:
 

@@ -15,7 +15,8 @@ with this public key: fA7Ih7xfHGqWub+fDJy0dX+y2O/dvTDmO4xmeF1Bylc=
 Also available is [*The Other Wise Man (1895, 17 pages)*](https://metamagical-musings.github.io/The-Other-Wise-Man.pdf) by Henry van Dyke. It was originally included in *Fractal Sovereignty* and is referenced in both *Metamystical Musings* and *Metamagical Musings*.
 
 ### Duality
-A short musing on one of the main themes of the trilogy: duality.
+A short musing on one of the main themes of the trilogy: duality. It has been submitted to [Red Cord Chanelling](https://www.redcordchanneling.com/)
+for publication in mid-January, 2025 as part of their new Red Thread project. 
 
 |**Author**|**PDF title**|**Date**|**Pages**|**Signature**|
 |---------------|-------------|--------|---------|-------------|

@@ -1,7 +1,7 @@
-tGRysArIwiSSCN7AoUEVyARknv8aG68Vhn0OHmgiPn4=
+JUS1Tcqy1KjuPM6HtC2jf9IjpMFJJhn6E6O0S6HkslQ=
 
 Public key: fA7Ih7xfHGqWub+fDJy0dX+y2O/dvTDmO4xmeF1Bylc=
-Signature: sG7OVn4zjZM3PWMaxnjTnOvePPxIKOcNXeWgNw+vmgLoswKIA7UhXAtEwF6j+1gCa9qqMw9Dbee2k/ufnJ49CQ==
+Signature: 0MvQollhKFnGZ0glds3Y8uDWygo4qd5TMS89kaajcnMKuGcwzoGW9HFPwfAeVRz37JTUOeyqEwKKXQI5Uw9dCA==
 ===================================================================================================
 
 The file Both-Sides-Now.pdf was created by John on December 18, 2024 and signed by him using https://metamagical-musings.github.io/hash-and-sign.html -- a web page he created from open source Ed25519 DSA software.

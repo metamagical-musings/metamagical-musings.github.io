@@ -20,7 +20,7 @@ for publication in mid-January, 2025 as part of their new Red Thread project.
 
 |**Author**|**PDF title**|**Date**|**Pages**|**Signature**|
 |---------------|-------------|--------|---------|-------------|
-|John |[*Both sides now*](https://metamagical-musings.github.io/Both-sides-now.pdf)|2024-12-18|5|[signature](https://metamagical-musings.github.io/signatures/Both-sides-now.txt)|
+|John |[*Both Sides Now*](https://metamagical-musings.github.io/Both-Sides-Now.pdf)|2024-12-18|5|[signature](https://metamagical-musings.github.io/signatures/Both-sides-now.txt)|
 
 ### Downloading
 You can download the individual PDFs by clicking on the titles above (which will open them in your browser) then saving them to your computer. However, the second and third PDFs will still have embedded hyperlinks linking to files on the metamagical-musings.github.io server, including audio files. These hyperlinks will work as long as the server is available, but the full trilogy along with its audio files can be downloaded to your computer and then modified so that hyperlinks link to your own computer instead of the server, thus making it self-contained:

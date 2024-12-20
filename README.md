@@ -22,6 +22,12 @@ for publication in mid-January, 2025 as part of their new Red Thread project.
 |---------------|-------------|--------|---------|-------------|
 |John |[*Both Sides Now*](https://metamagical-musings.github.io/Both-Sides-Now.pdf)|2024-12-18|5|[signature](https://metamagical-musings.github.io/signatures/Both-Sides-Now.txt)|
 
+As mentioned in the above musing, the order/chaos duality is of personal interest to me.
+
+|**Author**|**PDF title**|**Date**|**Pages**|**Signature**|
+|---------------|-------------|--------|---------|-------------|
+|John |[*Measuring complexity*](https://metamagical-musings.github.io/Measuring-complexity.pdf)|2024-11-27|5|[signature](https://metamagical-musings.github.io/signatures/Measuring-complexity.txt)|
+
 ### Downloading
 You can download the individual PDFs by clicking on the titles above (which will open them in your browser) then saving them to your computer. However, the second and third PDFs will still have embedded hyperlinks linking to files on the metamagical-musings.github.io server, including audio files. These hyperlinks will work as long as the server is available, but the full trilogy along with its audio files can be downloaded to your computer and then modified so that hyperlinks link to your own computer instead of the server, thus making it self-contained:
 1. Download the trilogy and associated files by clicking [here](https://github.com/metamagical-musings/metamagical-musings.github.io/archive/refs/heads/main.zip).

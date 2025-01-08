@@ -12,20 +12,24 @@ This is a repository for a trilogy in the form of downloadable PDFs written by J
 The PDF's are signed using [this form](https://metamagical-musings.github.io/hash-and-sign.html) and the private passphrase associated
 with this public key: fA7Ih7xfHGqWub+fDJy0dX+y2O/dvTDmO4xmeF1Bylc=
 
-Also available is [*The Other Wise Man (1895, 17 pages)*](https://metamagical-musings.github.io/The-Other-Wise-Man.pdf) by Henry van Dyke. It was originally included in *Fractal Sovereignty* and is referenced in both *Metamystical Musings* and *Metamagical Musings*.
+Also available is *The Other Wise Man*. It was originally included in *Fractal Sovereignty* and is referenced in both *Metamystical Musings* and *Metamagical Musings*.
+
+|**Author**|**PDF title**|**Date**|**Pages**|
+|----------|-------------|--------|---------|
+|Henry van Dyke |[*The Other Wise Man*](https://metamagical-musings.github.io/The-Other-Wise-Man.pdf)|1895|17|
 
 ### Duality
 A short musing on one of the main themes of the trilogy: duality. It has been submitted to [Red Cord Chanelling](https://www.redcordchanneling.com/)
 for publication in mid-January, 2025 as part of their new Red Thread project. 
 
 |**Author**|**PDF title**|**Date**|**Pages**|**Signature**|
-|---------------|-------------|--------|---------|-------------|
+|----------|-------------|--------|---------|-------------|
 |John |[*Both Sides Now*](https://metamagical-musings.github.io/Both-Sides-Now.pdf)|2024-12-18|5|[signature](https://metamagical-musings.github.io/signatures/Both-Sides-Now.txt)|
 
 As mentioned in the above musing, the order/chaos duality is of personal interest to me.
 
 |**Author**|**PDF title**|**Date**|**Pages**|**Signature**|
-|---------------|-------------|--------|---------|-------------|
+|----------|-------------|--------|---------|-------------|
 |John |[*Measuring Complexity*](https://metamagical-musings.github.io/Measuring-Complexity.pdf)|2025-1-6|11|[signature](https://metamagical-musings.github.io/signatures/Measuring-Complexity.txt)|
 
 ### Downloading

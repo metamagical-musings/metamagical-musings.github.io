@@ -18,6 +18,8 @@ Also available is *The Other Wise Man*. It was originally included in *Fractal S
 |----------|-------------|--------|---------|
 |Henry van Dyke |[*The Other Wise Man*](https://metamagical-musings.github.io/The-Other-Wise-Man.pdf)|1895|17|
 
+Tip: If you hold down the control key (Cmd on Mac) when clicking on hyperlinks embedded in PDF files, a new browser tab will open for the target resource, allowing you to return to the same place in the original tab. Otherwise, you may lose your place.
+
 ### Duality
 A short musing on one of the main themes of the trilogy: duality. It has been submitted to [Red Cord Chanelling](https://www.redcordchanneling.com/)
 for publication in mid-January, 2025 as part of their new Red Thread project. 
@@ -36,5 +38,3 @@ As mentioned in the above musing, the order/chaos duality is of personal interes
 If you click on the PDF titles above, you can read them online in your browser. The second and third PDFs have some embedded hyperlinks that link to their prequel(s) or to audio files located on the same server, which you can also view or listen to online in your browser.
 
 If an online PDF or audio file is open in your browser, you can save it to your local computer. However, if you open the saved copy on your local computer, the embedded hyperlinks will try to find prequel PDFs or audio files locally. Therefore it is recommened to download the entire trilogy as a zip package by clicking [here](https://github.com/metamagical-musings/metamagical-musings.github.io/archive/refs/heads/main.zip). After unzipping, the dowloaded trilogy will be self-contained within a folder.
-
-A consequence of using relative hyperlinks is that browsers may not give you the option to open a new tab when right-clicking on them and when you left-click on them, the linked resource appears in the already open window replacing what was there. When you click back to the original page you will have lost your place in it. The solution to this inconvenience is to hold down the control key (or the Cmd key on Mac) when you left-click a hyperlink to open a new tab.

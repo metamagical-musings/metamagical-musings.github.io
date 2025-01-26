@@ -1,10 +1,10 @@
-3auZIGuRPPbO2um+fqJRmiQ41BVmxQj9/BftBdIg2nw=
+JMeBNIIbkJaCneHd8z+IPCWTkqcFbKN9aEmJIiNIEVE=
 
 Public key: fA7Ih7xfHGqWub+fDJy0dX+y2O/dvTDmO4xmeF1Bylc=
-Signature: BmktD4D8VGKDPwfBmCcnmfXXEbpJAiS3CBmAyIlr2qUfGqYD959GS+9oyGL+CCUsU8X+fb+4xocC6rv3ke+PBQ==
+Signature: BaaLSYEQZ8brPR5/zSVydRbqvykOZnt8sJAulnCuD6n9bBD2ijRi+UTKk4RdfE6ksa3hJclP7mYNx3ph4+ETBw==
 ===================================================================================================
 
-The file Measuring-Complexity.pdf was created by John on December 20, 2024 and signed by him using https://metamagical-musings.github.io/hash-and-sign.html -- a web page he created from open source Ed25519 DSA software.
+The file Measuring-Complexity.pdf was created by John on January 6, 2024 and signed by him using https://metamagical-musings.github.io/hash-and-sign.html -- a web page he created from open source Ed25519 DSA software.
 
 To verify the signature:
 

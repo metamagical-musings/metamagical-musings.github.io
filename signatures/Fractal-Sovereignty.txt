@@ -1,10 +1,10 @@
-fSxy4IGqhAkT0c30+q3UPC1HARZGXsKky10Z/WndmzI=
+ojqfPgG8IUrNAIUMc1ja2Y8RqUZPB58KDL76l4FO4pY=
 
 Public key: fA7Ih7xfHGqWub+fDJy0dX+y2O/dvTDmO4xmeF1Bylc=
-Signature: afxGO11w1dE3XZwQEnDKy3lwsDSspK+HqaqBd3avJPCKuhEXWHUkemLCBPIbWgmoVbB6P2vmTq4tg8RpASAFBg==
-======================================================================================================================
+Signature: +39wccaGoxXu96eQ7wBFg/1JFZ0Y01Yp1gN+1X1FOx1X1ggH+KbDfCesGdJ5dFzRTbDIoJ0TMa0B2um99LudAQ==
+========================================================================================================
 
-The file Fractal-Sovereignty.pdf was created by Citizen Doctor on January 18, 2025 and signed by him using https://metamagical-musings.github.io/hash-and-sign.html -- a web page he created from open source Ed25519 DSA software.
+The file Fractal-Sovereignty.pdf was created by Citizen Doctor on January 31, 2025 and signed by him using https://metamagical-musings.github.io/hash-and-sign.html -- a web page he created from open source Ed25519 DSA software.
 
 To verify the signature:
 

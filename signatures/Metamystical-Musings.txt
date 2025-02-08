@@ -4,7 +4,7 @@ Public key: fA7Ih7xfHGqWub+fDJy0dX+y2O/dvTDmO4xmeF1Bylc=
 Signature: burrzC2jr5c0bPOCvONfgVQTeioy+IPZs2az8aFziRPICUMs3mOsh7/A2VXI5Ti4bf3Uakkae5OhlG1PM5QbAA==
 ===================================================================================================
 
-The file Metamystical-Musings.pdf was created by MisterY on January 18, 2025 and signed by him using https://metamagical-musings.github.io/hash-and-sign.html -- a web page he created from open source Ed25519 DSA software.
+The file Metamystical-Musings.pdf was created by MisterY on February 8, 2025 and signed by him using https://metamagical-musings.github.io/hash-and-sign.html -- a web page he created from open source Ed25519 DSA software.
 
 To verify the signature:
 
